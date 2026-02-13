@@ -1,0 +1,21 @@
+{
+  "name": "date-night-twilight-edition",
+  "version": "1.0.0",
+  "description": "Une application d'idées de dates exagérément romantique avec des touches de Twilight",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["vue", "date", "romantic", "twilight"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.5.27"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.4",
+    "vite": "^7.3.1"
+  }
+}
